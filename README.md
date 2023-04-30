@@ -12,5 +12,5 @@ v1.2 updates:
 3) The previous [s BaseFreq1] and [s updateSlider] are now merged using a [t b f].
 4) Phrygian scale section was simplified and [OSC1_PhrygianNote] slider was replaced with a [hradio].
 5) I added two green sliders to manually control the Filter Cutoff and QFactor without using an external controller.
-6) Improved filter behaviour using [vcf~] insead of a cascade of [lop~] and [bp~]. No more clicking noise when changing the cutoff frequency. 
+6) Improved filter behaviour using [vcf~] insead of a cascade of [lop~] and [bp~]. No more clicking noise when changing the cutoff frequency! 
 7) Extended cutoff frequency range (100 - 8200 Hz).
